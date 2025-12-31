@@ -112,7 +112,7 @@
        Yeni yıl sana sağlık, mutluluk ve hayallerini getirsin 🤍</p>
 </header>
 
-<section class="images">
+<section class="gallery">
     <img src="images/foto1.jpg" alt="Anı 1">
     <img src="images/foto2.jpg" alt="Anı 2">
     <img src="images/foto3.jpg" alt="Anı 3">
